@@ -1,7 +1,7 @@
 freeStyleJob('WORKSHOP_RAFAEL') {
 
     scm {
-        github('silvadenisaraujo/djangogirls-example.git', 'master')
+        github('silvadenisaraujo/djangogirls-example', 'master')
     }
 
     steps {
